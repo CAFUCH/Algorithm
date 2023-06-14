@@ -1,32 +1,32 @@
 //#include <iostream>
-//#include <algorithm>
 //#include <vector>
-//#include <string>
+//#include <algorithm>
 //using namespace std;
 //
-//int main() {
-//	//https://www.acmicpc.net/problem/10814
+//vector<pair<int, string>> v;
 //
-//	int n;
+//bool compare(pair<int, string> p1, pair<int, string> p2)
+//{
+//    return p1.first < p2.first;
+//}
 //
-//	cin >> n;
+//int main() //https://www.acmicpc.net/problem/10814
+//{
+//    int repeat = 0;
 //
-//	vector<pair<int, string>> member;
+//    cin >> repeat;
 //
-//	int age;
-//	string name;
+//    int num;
+//    string str;
 //
-//	for (int i = 0; i < n; ++i) {
+//    for (int i = 0; i < repeat; i++)
+//    {
+//        cin >> num >> str;
+//        v.push_back({ num, str });
+//    }
 //
-//		cin >> age >> name;
-//		member.push_back(make_pair(age, name));
-//	}
+//    stable_sort(v.begin(), v.end(), compare);
 //
-//	stable_sort(member.begin(), member.end());
-//	//sort(member.begin(), member.end());
-//	
-//	for (int i = 0; i < n; ++i) {
-//
-//		cout << member[i].first << " " << member[i].second << '\n';
-//	}
+//    for (int i = 0; i < repeat; i++)
+//        cout << v[i].first << " " << v[i].second << '\n';
 //}
