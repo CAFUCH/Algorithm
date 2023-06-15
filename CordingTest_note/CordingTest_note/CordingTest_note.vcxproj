@@ -135,7 +135,10 @@
     <ClCompile Include="Silver.cpp" />
     <ClCompile Include="Silver1.cpp" />
     <ClCompile Include="sort.cpp" />
+    <ClCompile Include="나는야 포켓몬 마스터 이다솜.cpp" />
     <ClCompile Include="나이순 정렬.cpp" />
+    <ClCompile Include="듣보잡.cpp" />
+    <ClCompile Include="베스트셀러.cpp" />
     <ClCompile Include="수 정렬하기2_병합.cpp" />
     <ClCompile Include="수 정렬하기_버블.cpp" />
     <ClCompile Include="수 찾기.cpp" />
