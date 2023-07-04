@@ -8,7 +8,7 @@
 //	string str;
 //
 //	left = 0;
-//	right = age.size() - 1;
+//	right = age.size() - 1; // 인덱스로 할 거 라서?
 //
 //	while (left != right)
 //	{
