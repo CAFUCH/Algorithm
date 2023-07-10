@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2차수행_큐9.cpp" />
+    <ClCompile Include="A + B.cpp" />
     <ClCompile Include="AC.cpp" />
     <ClCompile Include="Bronze.cpp" />
     <ClCompile Include="Bronze1.cpp" />
@@ -143,11 +144,13 @@
     <ClCompile Include="듣보잡.cpp" />
     <ClCompile Include="문자열 폭발.cpp" />
     <ClCompile Include="베스트셀러.cpp" />
+    <ClCompile Include="별 찍기 - 5.cpp" />
     <ClCompile Include="수 정렬하기2_병합.cpp" />
     <ClCompile Include="수 정렬하기_버블.cpp" />
     <ClCompile Include="수 찾기.cpp" />
     <ClCompile Include="숫자 카드.cpp" />
     <ClCompile Include="없는 숫자 더하기.cpp" />
+    <ClCompile Include="오픈채팅방.cpp" />
     <ClCompile Include="이분 탐색.cpp" />
     <ClCompile Include="정렬_계수.cpp" />
     <ClCompile Include="정렬_기수.cpp" />
