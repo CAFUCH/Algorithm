@@ -1,3 +1,2 @@
-﻿  A + B.cpp
-D:\GitHub\Algorithm\CordingTest_note\CordingTest_note\A + B.cpp(24,3): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  A+B - 5.cpp
   CordingTest_note.vcxproj -> D:\GitHub\Algorithm\CordingTest_note\x64\Debug\CordingTest_note.exe

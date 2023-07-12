@@ -131,7 +131,7 @@
     <ClCompile Include="A + B.cpp" />
     <ClCompile Include="AC.cpp" />
     <ClCompile Include="Bronze.cpp" />
-    <ClCompile Include="Bronze1.cpp" />
+    <ClCompile Include="A+B - 5.cpp" />
     <ClCompile Include="Bronze2.cpp" />
     <ClCompile Include="Silver.cpp" />
     <ClCompile Include="Silver1.cpp" />

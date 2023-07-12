@@ -21,7 +21,7 @@
     <ClCompile Include="Bronze.cpp">
       <Filter>백준</Filter>
     </ClCompile>
-    <ClCompile Include="Bronze1.cpp">
+    <ClCompile Include="A+B - 5.cpp">
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="Bronze2.cpp">
