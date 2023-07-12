@@ -1,55 +1,48 @@
 //#include <iostream>
+//#include <map>
 //#include <string>
 //#include <vector>
-//#include <map>
 //#include <sstream>
-//
 //using namespace std;
 //
 //vector<string> solution(vector<string> record) {
+//	//https://school.programmers.co.kr/learn/courses/30/lessons/42888
 //
-//    vector<string> answer;
-//    map<string, string> member; // id와 name 저장용도
-//    string state, id, name; // 통
+//	vector<string> answer;
+//	vector<pair<string, string>> log;
+//	map<string, string> member;
+//	string state, id, name, key;
 //
-//    for (int i = 0; i < record.size(); i++) { // 안 돌아
+//	for (auto s : record) {
 //
-//        cout << "들어옴";
+//		stringstream stream(s);
+//		stream >> state; stream >> id; stream >> name;
 //
-//        stringstream stream(i);
-//        stream >> state; stream >> id; stream >> name; // 한 세트를 받으면?
+//		if (state == "Enter") {
 //
-//        switch (state.at(0)) {
+//			//if (member.find(id) != member.end()) // iterator 문제?
+//			//	member[id] = name;
+//			//else
+//			//	member.insert(id, name);
 //
-//            case 'E' :
-//                member[id] = name;
-//                answer.push_back(id + "님이 들어왔습니다.");
-//                break;
+//			member[id] = name;
+//			log.push_back(make_pair(id, "님이 들어왔습니다."));
+//		}
+//		else if (state == "Leave") {
 //
-//            case 'L' :
-//                answer.push_back(id + "님이 나갔습니다.");
-//                break;
+//			log.push_back(make_pair(id, "님이 나갔습니다."));
+//		}
+//		else if (state == "Change") {
 //
-//            case 'C' : 
-//                member[id] = name;
-//                break;
-//        }
-//    }
+//			member[id] = name;
+//		}
+//	}
 //
-//    //for (auto i : answer) {
+//	for (auto l : log) {
 //
-//    //    key = i.substr(0, i.find("님"));
-//    //    i.replace(0, i.find("님"), member[key]);
-//    //}
+//		key = l.first;
+//		answer.push_back(member[key] + l.second);
+//	}
 //
-//    return answer;
-//}
-//
-//int main() {
-//    
-//    vector<string> d { "Enter uid1234 Muzi", "Enter uid4567 Prodo", "Leave uid1234", "Enter uid1234 Prodo", "Change uid4567 Ryan" };
-//    vector<string> ans = solution(d);
-//
-//    for (auto a : ans)
-//        cout << a;
+//	return answer;
 //}
