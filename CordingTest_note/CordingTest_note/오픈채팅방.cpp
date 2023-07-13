@@ -20,11 +20,6 @@
 //
 //		if (state == "Enter") {
 //
-//			//if (member.find(id) != member.end()) // iterator 문제?
-//			//	member[id] = name;
-//			//else
-//			//	member.insert(id, name);
-//
 //			member[id] = name;
 //			log.push_back(make_pair(id, "님이 들어왔습니다."));
 //		}

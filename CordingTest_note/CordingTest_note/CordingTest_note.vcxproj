@@ -145,6 +145,7 @@
     <ClCompile Include="문자열 폭발.cpp" />
     <ClCompile Include="베스트셀러.cpp" />
     <ClCompile Include="별 찍기 - 5.cpp" />
+    <ClCompile Include="쇠막대기.cpp" />
     <ClCompile Include="수 정렬하기2_병합.cpp" />
     <ClCompile Include="수 정렬하기_버블.cpp" />
     <ClCompile Include="수 찾기.cpp" />
