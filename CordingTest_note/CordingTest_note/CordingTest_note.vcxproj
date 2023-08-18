@@ -133,15 +133,18 @@
     <ClCompile Include="Bronze.cpp" />
     <ClCompile Include="A+B - 5.cpp" />
     <ClCompile Include="Bronze2.cpp" />
-    <ClCompile Include="Silver.cpp" />
+    <ClCompile Include="OX퀴즈.cpp" />
+    <ClCompile Include="주몽.cpp" />
     <ClCompile Include="Silver1.cpp" />
     <ClCompile Include="sort.cpp" />
+    <ClCompile Include="겜프.cpp" />
     <ClCompile Include="공 바꾸기.cpp" />
     <ClCompile Include="공.cpp" />
     <ClCompile Include="나는야 포켓몬 마스터 이다솜.cpp" />
     <ClCompile Include="나이순 정렬.cpp" />
     <ClCompile Include="대칭 차집합.cpp" />
     <ClCompile Include="듣보잡.cpp" />
+    <ClCompile Include="문자열 집합.cpp" />
     <ClCompile Include="문자열 폭발.cpp" />
     <ClCompile Include="베스트셀러.cpp" />
     <ClCompile Include="별 찍기 - 5.cpp" />
@@ -176,7 +179,7 @@
     <ClCompile Include="코테_기능개발.cpp" />
     <ClCompile Include="코테_올바른 괄호.cpp" />
     <ClCompile Include="코테_프로세스.cpp" />
-    <ClCompile Include="큐 구현.cpp" />
+    <ClCompile Include="큐 2.cpp" />
     <ClCompile Include="후위표기식.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

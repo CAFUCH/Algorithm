@@ -27,7 +27,7 @@
     <ClCompile Include="Bronze2.cpp">
       <Filter>백준</Filter>
     </ClCompile>
-    <ClCompile Include="Silver.cpp">
+    <ClCompile Include="주몽.cpp">
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="Silver1.cpp">
@@ -57,7 +57,7 @@
     <ClCompile Include="코테_프로세스.cpp">
       <Filter>코테</Filter>
     </ClCompile>
-    <ClCompile Include="큐 구현.cpp">
+    <ClCompile Include="큐 2.cpp">
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="연결리스트_스택 구현.cpp">
@@ -169,6 +169,15 @@
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="쇠막대기.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="겜프.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 집합.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="OX퀴즈.cpp">
       <Filter>백준</Filter>
     </ClCompile>
   </ItemGroup>
