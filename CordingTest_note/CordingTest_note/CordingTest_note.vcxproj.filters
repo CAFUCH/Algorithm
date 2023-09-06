@@ -180,5 +180,23 @@
     <ClCompile Include="OX퀴즈.cpp">
       <Filter>백준</Filter>
     </ClCompile>
+    <ClCompile Include="그래프_인접행렬.cpp">
+      <Filter>수업</Filter>
+    </ClCompile>
+    <ClCompile Include="크레인 인형뽑기 게임.cpp">
+      <Filter>코테</Filter>
+    </ClCompile>
+    <ClCompile Include="미로 거리.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="게임 맵 최단거리cpp.cpp">
+      <Filter>코테</Filter>
+    </ClCompile>
+    <ClCompile Include="특정 거리의 도시 찾기.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="유기농 배추.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
