@@ -1,7 +1,8 @@
 //#include <iostream>
 //using namespace std;
 //
-//int main() { //аж╦Ы
+//int main() {
+//	// https://www.acmicpc.net/problem/1940
 //
 //	int n, m, sum = 0;
 //

@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
     <Filter Include="백준">
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
@@ -15,6 +11,21 @@
     <Filter Include="수업">
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="수업\정렬">
+      <UniqueIdentifier>{16fe1331-d820-4bf3-b690-7630e272436e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="수업\그래프">
+      <UniqueIdentifier>{1272ec09-c534-4a2a-ac1b-d39beb01d5c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="수업\트리">
+      <UniqueIdentifier>{311f4eff-b490-49b2-83be-c11ee61e4498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="수업\선형 자료구조">
+      <UniqueIdentifier>{017063ac-6a87-4094-b5de-42315366433a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="그 외">
+      <UniqueIdentifier>{f4c0ba15-bbf8-4142-9ac1-d70407c5d607}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -45,9 +56,6 @@
     <ClCompile Include="코테_올바른 괄호.cpp">
       <Filter>코테</Filter>
     </ClCompile>
-    <ClCompile Include="기차운행.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
     <ClCompile Include="코테_기능개발.cpp">
       <Filter>코테</Filter>
     </ClCompile>
@@ -59,12 +67,6 @@
     </ClCompile>
     <ClCompile Include="큐 2.cpp">
       <Filter>백준</Filter>
-    </ClCompile>
-    <ClCompile Include="연결리스트_스택 구현.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
-    <ClCompile Include="연결리스트_큐 구현.cpp">
-      <Filter>수업</Filter>
     </ClCompile>
     <ClCompile Include="요세푸스.cpp">
       <Filter>백준</Filter>
@@ -84,47 +86,17 @@
     <ClCompile Include="코테_괄호 회전하기.cpp">
       <Filter>코테</Filter>
     </ClCompile>
-    <ClCompile Include="2차수행_큐9.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
-    <ClCompile Include="정렬_계수.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
-    <ClCompile Include="정렬_기수.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
-    <ClCompile Include="정렬_선택.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
-    <ClCompile Include="정렬_버블.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
-    <ClCompile Include="정렬_삽입.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
     <ClCompile Include="수 정렬하기_버블.cpp">
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="수 정렬하기2_병합.cpp">
       <Filter>백준</Filter>
     </ClCompile>
-    <ClCompile Include="정렬_병합.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
-    <ClCompile Include="정렬_퀵.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
-    <ClCompile Include="sort.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
     <ClCompile Include="나이순 정렬.cpp">
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="이분 탐색.cpp">
       <Filter>수업</Filter>
-    </ClCompile>
-    <ClCompile Include="수 찾기.cpp">
-      <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="베스트셀러.cpp">
       <Filter>백준</Filter>
@@ -180,13 +152,10 @@
     <ClCompile Include="OX퀴즈.cpp">
       <Filter>백준</Filter>
     </ClCompile>
-    <ClCompile Include="그래프_인접행렬.cpp">
-      <Filter>수업</Filter>
-    </ClCompile>
     <ClCompile Include="크레인 인형뽑기 게임.cpp">
       <Filter>코테</Filter>
     </ClCompile>
-    <ClCompile Include="미로 거리.cpp">
+    <ClCompile Include="미로 탐색.cpp">
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="게임 맵 최단거리cpp.cpp">
@@ -207,5 +176,136 @@
     <ClCompile Include="네트워크.cpp">
       <Filter>코테</Filter>
     </ClCompile>
+    <ClCompile Include="DFS와 BFS.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="구구단.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기 - 3.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="영수증.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="최댓값.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="N번째 큰 수.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="생일.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="0의 개수.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="동전 0.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="ROT13.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="트리 순회.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="길 찾기 게임.cpp">
+      <Filter>코테</Filter>
+    </ClCompile>
+    <ClCompile Include="수 찾기.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬_계수.cpp">
+      <Filter>수업\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬_기수.cpp">
+      <Filter>수업\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬_버블.cpp">
+      <Filter>수업\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬_병합.cpp">
+      <Filter>수업\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬_삽입.cpp">
+      <Filter>수업\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬_선택.cpp">
+      <Filter>수업\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="정렬_퀵.cpp">
+      <Filter>수업\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="그래프_인접행렬.cpp">
+      <Filter>수업\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="그래프 수행준비 연습장.cpp">
+      <Filter>수업\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="TR_main.cpp">
+      <Filter>수업\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="TR_cpp.cpp">
+      <Filter>수업\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="BST_cpp.cpp">
+      <Filter>수업\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="BST_main.cpp">
+      <Filter>수업\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="2차수행_큐9.cpp">
+      <Filter>수업\선형 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="기차운행_스택.cpp">
+      <Filter>수업\선형 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트_스택 구현.cpp">
+      <Filter>수업\선형 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트_큐 구현.cpp">
+      <Filter>수업\선형 자료구조</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.cpp">
+      <Filter>수업\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="BST_h.cpp">
+      <Filter>수업\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="트리의 부모 찾기.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="이진 검색 트리.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="팰린드롬수.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="메이플스토리 새로운 직업 고르기.cpp">
+      <Filter>그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="의상.cpp">
+      <Filter>코테</Filter>
+    </ClCompile>
+    <ClCompile Include="베스트앨범.cpp">
+      <Filter>코테</Filter>
+    </ClCompile>
+    <ClCompile Include="특정 문자 제거하기.cpp">
+      <Filter>코테</Filter>
+    </ClCompile>
+    <ClCompile Include="패션왕 신해빈.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TR_h.h">
+      <Filter>수업\트리</Filter>
+    </ClInclude>
+    <ClInclude Include="BST_h.h">
+      <Filter>수업\트리</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
