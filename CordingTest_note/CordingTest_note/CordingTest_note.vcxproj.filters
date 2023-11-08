@@ -299,6 +299,27 @@
     <ClCompile Include="패션왕 신해빈.cpp">
       <Filter>백준</Filter>
     </ClCompile>
+    <ClCompile Include="회사에 있는 사람.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="신고 결과 받기.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 회전시키기.cpp">
+      <Filter>코테</Filter>
+    </ClCompile>
+    <ClCompile Include="먹을 것인가 먹힐 것인가.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 카드2.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="별 찍기 - 1.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="두 수 비교하기.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TR_h.h">
