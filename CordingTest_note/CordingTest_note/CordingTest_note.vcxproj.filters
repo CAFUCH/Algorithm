@@ -320,6 +320,9 @@
     <ClCompile Include="두 수 비교하기.cpp">
       <Filter>백준</Filter>
     </ClCompile>
+    <ClCompile Include="입국심사.cpp">
+      <Filter>코테</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TR_h.h">
