@@ -1,39 +1,36 @@
-//#include <iostream>
-//#include <string>
+//#include<iostream>
+//#include<set>
 //using namespace std;
 //
-//int main() { //https://www.acmicpc.net/problem/25192
+//int main() {
 //
-//	int n, idx = 0, cnt = 0;
+//	ios_base::sync_with_stdio(0);
+//	cin.tie(0);
+//	cout.tie(0);
+//
+//	int n, sum = 0;
+//	string s;
+//
+//	set<string> set;
 //
 //	cin >> n;
 //
-//	string* arr = new string[n];
-//
-//	for (int i = 0; i < n; ++i)
-//		cin >> arr[i];
-//
 //	for (int i = 0; i < n; ++i) {
 //
-//		if (arr[i] == "ENTER") //ENTER가 입력되면 검사하는 index의 초기값을 당겨준다.
-//			idx = i + 1;
+//		cin >> s;
 //
-//		else if (arr[i] != "ENTER") { //이름 이라면
+//		if (s == "ENTER")
+//			set.clear();
 //
-//			for (int j = idx; j < n; ++j) {
-//
-//
-//				if (arr[j] == "ENTER")
-//					break;
-//				else if (arr[i] == arr[j] && i != j) {
-//					cout << arr[i] << " " << arr[j] << endl;
-//					break;
-//				}
-//				cout << arr[i] << " " << arr[j] << "털렸다" << endl;
-//				cnt++;
+//		else
+//		{
+//			if (set.find(s) == set.end())
+//			{
+//				set.insert(s);
+//				sum++;
 //			}
 //		}
 //	}
 //
-//	cout << cnt;
+//	cout << sum;
 //}

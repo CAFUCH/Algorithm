@@ -1,0 +1,493 @@
+////#include <iostream>
+////#include <vector>
+////using namespace std;
+////
+////int main() {
+////
+////    ios_base::sync_with_stdio(false);
+////    cin.tie(NULL);
+////    cout.tie(NULL);
+////
+////    int x, m;
+////    string order = "";
+////    cin >> m;
+////    int bit = 0;
+////    for (int i = 0; i < m; i++) {
+////        cin >> order;
+////        if (order == "add") { // x 추가
+////            cin >> x;
+////            bit |= (1 << x);
+////        }
+////        else if (order == "remove") { // x 제거
+////            cin >> x;
+////            bit &= ~(1 << x);
+////        }
+////        else if (order == "check") { // x가 있는지 확인
+////            cin >> x;
+////            if (bit & (1 << x)) cout << 1 << "\n";
+////            else cout << 0 << "\n";
+////        }
+////        else if (order == "toggle") { //x가 있으면 없애고, 없으면 추가.
+////            cin >> x;
+////            bit = bit ^ (1 << x);
+////        }
+////        else if (order == "all")  // 전부 1로 셋팅
+////            bit = (1 << 21) - 1;
+////        else if (order == "empty") // 전부 0으로 셋팅
+////            bit = 0;
+////
+////    }
+////    return 0;
+////}
+//
+//#include <iostream>
+//#include <vector>
+//using namespace std;
+//int main()
+//{
+//    int n, s, b;
+//    vector<pair<int, int>> v;
+//    cin >> n;
+//    for (int i = 0; i < n; ++i)
+//    {
+//        cin >> s >> b;
+//        v.push_back({ s,b });
+//    }
+//    int ans = 1000000000;
+//    //n개의 원소로 만들 수 있는 부분 집합의 수(공집합제외) : 2의n승-1
+//    for (int i = 1; i < (1 << n); i++)
+//    {
+//        int s_sum = 1, b_sum = 0;
+//        // 선택된 재료 확인 
+//        for (int x = 0; x < n; x++)
+//        {
+//            if (i & (1 << x)) // i번 재료가 선택되었다면 
+//            {
+//                s_sum *= v[x].first;
+//                b_sum += v[x].second;
+//            }
+//        }
+//        ans = min(ans, abs(s_sum - b_sum));
+//    }
+//    cout << ans;
+//}
+//
+//int n, d, k;
+//int res = INT_MIN;
+//
+//void DFS(int level, int s, int bit, vector<int>& st, vector<int>& pow) {
+//    if (level == k) {
+//        int cnt = 0;
+//        // 현재 음식을 먹을 수 있는 학생 수 세기 
+//        for (int i = 1; i <= n; i++)
+//            if ((bit //무슨 연산자 쓸깡  st[i]) == st[i]) 
+//                cnt++;
+//        res = max(res, cnt);
+//    }
+//    else {
+//        for (int i = s; i <= d; i++) {
+//            DFS(level + 1, i + 1, bit + pow[i], st, pow);
+//        }
+//    }
+//}
+//int main() {
+//    cin >> n >> d >> k;
+//    vector<int> st(n + 1), pow(d + 1);
+//    pow[1] = 1;
+//    for (int i = 2; i <= d; i++) pow[i] = pow[i - 1] * 2;
+//    for (int i = 1; i <= n; i++) {
+//        int m, num;
+//        cin >> m;
+//        for (int j = 1; j <= m; j++) {
+//            cin >> num;
+//            st[i] += pow[num];
+//        }
+//    }
+//    DFS(0, 1, 0, st, pow);
+//    cout << res;
+//    return 0;
+//}
+
+
+//#include <iostream>
+//using namespace std;
+//
+//int main()
+//{
+//	int n, a, b;
+//	int min, max;
+//
+//	cin >> n;
+//	cin >> a >> b;
+//	min = max = 0;
+//
+//	for (int i = a; i <= b; ++i)
+//	{
+//		int left = 1;
+//		int right = n;
+//		int cnt = 0;
+//
+//		while (left <= right)
+//		{
+//			int mid = (left + right) / 2;
+//			cnt++;
+//
+//			if (mid == i)
+//				break;
+//			else if (mid > i)
+//				right = mid - 1;
+//			else if (mid < i)
+//				left = mid + 1;
+//		}
+//
+//		if (min >= cnt || min == 0)
+//			min = cnt;
+//		if (max <= cnt || max == 0)
+//			max = cnt;
+//	}
+//
+//	cout << min << " " << max;
+//}
+
+//#include <iostream>
+//#include <vector>
+//using namespace std;
+//
+//int main()
+//{
+//	string n, m;
+//	vector<vector<int>> dp;
+//
+//	cin >> n >> m;
+//	dp.resize(n.size() + 1, vector<int>(m.size() + 1));
+//
+//	for (int i = 1; i <= n.size(); ++i)
+//	{
+//		for (int j = 1; j <= m.size(); ++j)
+//		{
+//			if (n[i - 1] == m[j - 1])
+//				dp[i][j] = dp[i - 1][j - 1] + 1;
+//			else
+//				dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
+//		}
+//	}
+//
+//	cout << dp[n.size()][m.size()];
+//}
+
+
+
+//#include <iostream>
+//#include <vector>
+//#include <stack>
+//using namespace std;
+//
+//int main()
+//{
+//	string n, m;
+//	vector<vector<int>> dp;
+//	stack<char> ans;
+//
+//	cin >> n >> m;
+//	dp.resize(n.size() + 1, vector<int>(m.size() + 1));
+//
+//	for (int i = 1; i <= n.size(); ++i)
+//	{
+//		for (int j = 1; j <= m.size(); ++j)
+//		{
+//			if (n[i - 1] == m[j - 1])
+//				dp[i][j] = dp[i - 1][j - 1] + 1;
+//			else
+//				dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
+//		}
+//	}
+//
+//	int i = n.size(); int j = m.size();
+//
+//	while (dp[i][j] != 0)
+//	{
+//		if (dp[i][j] == dp[i][j - 1])
+//			j -= 1;
+//		else if (dp[i][j] == dp[i - 1][j])
+//			i -= 1;
+//		else
+//		{
+//			i -= 1;
+//			j -= 1;
+//			ans.push(n[i]);
+//		}
+//	}
+//
+//	cout << dp[n.size()][m.size()] << endl;
+//
+//	while (!ans.empty())
+//	{
+//		cout << ans.top();
+//		ans.pop();
+//	}
+
+
+
+
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <vector>
+#include <unordered_map>
+using namespace std;
+
+//// 1 - 통
+//int main()
+//{
+//	string str1, str2;
+//	getline(cin, str1);
+//	getline(cin, str2);
+//
+//	while (str1.find(" ") != string::npos)
+//		str1.erase(str1.find(" "), 1);
+//	while (str2.find(" ") != string::npos)
+//		str2.erase(str2.find(" "), 1);
+//	cout << str1 << str2;
+//}
+
+////2 - 통
+//int main()
+//{
+//	int n, m, k = 0;
+//	vector<vector<int>> v;
+//
+//	cin >> n >> m;
+//	v.resize(n, vector<int>(m));
+//
+//	for (int i = 0; i < m; ++i)
+//	{
+//		if (i % 2 == 0)
+//		{
+//			for (int j = 0; j < n; ++j)
+//			{
+//				v[j][i] = k;
+//				k++;
+//			}
+//		}
+//		else
+//		{
+//			for (int j = n - 1; j >= 0; --j)
+//			{
+//				v[j][i] = k;
+//				k++;
+//			}
+//		}
+//	}
+//
+//	for (int i = 0; i < n; ++i)
+//	{
+//		for (int j = 0; j < m; ++j)
+//			cout << v[i][j] << " ";
+//		cout << endl;
+//	}
+//}
+
+//// 3 - 통
+//void func(int& a, int& b)
+//{
+//	if (a < b)
+//	{
+//		a += 10;
+//		b *= 2;
+//	}
+//	else
+//	{
+//		a *= 2;
+//		b += 10;
+//	}
+//	return;
+//}
+//int main()
+//{
+//	int a, b;
+//	cin >> a >> b;
+//	func(a, b);
+//	cout << a << " " << b;
+//}
+
+//// 4 - 통
+//int t;
+//void func(int n)
+//{
+//	if (n == 0)
+//		return;
+//
+//	for (int i = n; i < t; ++i)
+//		cout << " ";
+//	for (int i = 0; i < n; ++i)
+//		cout << "*" << " ";
+//	cout << endl;
+//
+//	func(n - 1);
+//
+//	for (int i = n; i < t; ++i)
+//		cout << " ";
+//	for (int i = 0; i < n; ++i)
+//		cout << "*" << " ";
+//	cout << endl;
+//}
+//int main()
+//{
+//	cin >> t;
+//	func(t);
+//}
+
+////6 - 통
+//int main()
+//{
+//	int n, m, k;
+//	vector<int> v;
+//
+//	cin >> n >> m;
+//	v.resize(m);
+//
+//	for (int i = 0; i < n; ++i)
+//		cin >> v[i];
+//	for (int i = 0; i < m; ++i)
+//	{
+//		cin >> k;
+//		
+//		int left = 0;
+//		int right = n - 1;
+//		int mid;
+//
+//		while (left <= right)
+//		{
+//			mid = (left + right) / 2;
+//			if (k == v[mid])
+//			{
+//				cout << mid + 1 << endl;
+//				break;
+//			}
+//			else if (k > v[mid])
+//				left = mid + 1;
+//			else if (k < v[mid])
+//				right = mid - 1;
+//		}
+//
+//		if (k != v[mid])
+//			cout << "-1" << endl;
+//	}
+//}
+
+//// 7 - 통
+//bool cmp(pair<pair<int, int>, int> a, pair<pair<int, int>, int> b)
+//{
+//	if (a.first.first == b.first.first)
+//		a.first.second > b.first.second ? true : false;
+//	return a.first.first < b.first.first ? true : false;
+//}
+//int main()
+//{
+//	int t, height, weight;
+//	vector<pair<pair<int, int>, int>> student;
+//
+//	cin >> t;
+//	student.resize(t);
+//
+//	for (int i = 0; i < t; ++i)
+//	{
+//		cin >> height >> weight;
+//		student[i] = { { height, weight }, i + 1 };
+//	}
+//
+//	sort(student.begin(), student.end(), cmp);
+//
+//	for (int i = 0; i < t; ++i)
+//	{
+//		cout << student[i].first.first << " " << student[i].first.second << " " << student[i].second;
+//		cout << endl;
+//	}
+//}
+
+//// 8
+//int main()
+//{
+//	int t, n;
+//	unordered_map<int, int> map;
+//
+//	cin >> t;
+//	for (int i = 0; i < n; ++i)
+//	{
+//		cin >> n;
+//		map[n] = i + 1;
+//	}
+//}
+
+////9 - 시가ㅏㄴ 초과인듯
+//int n, m, cnt, k = 1;
+//vector<vector<pair<int, bool>>> arr;
+//vector<pair<int, int>> value;
+//int dx[] = { 0, 0, -1, 1 };
+//int dy[] = { -1, 1, 0, 0 };
+//
+//bool cmp(pair<int, int> a, pair<int, int> b)
+//{
+//	if (a.second == b.second)
+//		return a.first < b.first ? true : false;
+//	return a.second > b.second ? true : false;
+//}
+//void DFS(int x, int y)
+//{
+//	for (int i = 0; i < 4; ++i)
+//	{
+//		int nx, ny;
+//		nx = x + dx[i];
+//		ny = y + dy[i];
+//
+//		if (nx < 0 || ny < 0 || nx >= m || ny >= n)
+//			continue;
+//		if (arr[ny][nx].first <= k && arr[ny][nx].second == false)
+//		{
+//			arr[ny][nx].second = true;
+//			DFS(nx, ny);
+//		}
+//	}
+//}
+//int main()
+//{
+//	cin >> n >> m;
+//	arr.resize(n, vector<pair<int, bool>>(m));
+//
+//	for (int i = 0; i < n; ++i)
+//	{
+//		for (int j = 0; j < m; ++j)
+//			cin >> arr[i][j].first;
+//	}
+//	
+//	while (true)
+//	{
+//		cnt = 0;
+//		for (int i = 0; i < n; ++i)
+//		{
+//			for (int j = 0; j < m; ++j)
+//			{
+//				if (arr[i][j].first <= k && arr[i][j].second == false)
+//				{
+//					cnt++;
+//					arr[i][j].second = true;
+//					DFS(j, i);
+//					value.push_back({ k, cnt });
+//				}
+//			}
+//			
+//		}
+//		if (cnt == 0)
+//			break;
+//		for (int i = 0; i < n; ++i)
+//		{
+//			for (int j = 0; j < m; ++j)
+//				arr[i][j].second = false;
+//		}
+//		k++;
+//	}
+//
+//	sort(value.begin(), value.end(), cmp);
+//
+//	cout << value[0].first << " " << value[0].second;
+//}
