@@ -230,10 +230,10 @@
 
 
 #include <iostream>
-#include <algorithm>
-#include <string>
-#include <vector>
-#include <unordered_map>
+//#include <algorithm>
+//#include <string>
+//#include <vector>
+//#include <unordered_map>
 using namespace std;
 
 //// 1 - 통
@@ -490,4 +490,271 @@ using namespace std;
 //	sort(value.begin(), value.end(), cmp);
 //
 //	cout << value[0].first << " " << value[0].second;
+//}
+//90 ~100점은 A, 80 ~89점은 B, 70 ~79점은 C, 60 ~69점은 D, 나머지 점수는 F
+//int main()
+//{
+//	int t, n;
+//	int arr[101];
+//	cin >> t >> n;
+//	for (int i = 0; i < t; ++i)
+//	{
+//		cin >> arr[i];
+//		if (arr[i] < n)
+//			cout << arr[i] << " ";
+//	}
+//}4
+
+//int main()
+//{
+//	float n, m, sum = 0;
+//	cin >> n;	
+//	for (int i = 0; i < n; ++i)
+//	{
+//		cin >> m;
+//		sum += m;
+//	}
+//	cout << sum / n;
+//}
+
+//int main()
+//{
+//    string str;
+//    while (cin >> str)
+//    {
+//        cout << str << '\n';
+//    }
+//}
+//
+//#include <iostream>
+//using namespace std;
+//
+//int main()
+//{
+//    unsigned long long n, m;
+//    cin >> n >> m;
+//    cout << n + m;
+//}
+//#include <queue>
+
+//#include <stack>
+//int main()
+//{
+//	cin.tie(NULL);
+//	std::ios_base::sync_with_stdio(false);
+//
+//	int t, n;
+//	string str;
+//	stack<int> stc;
+//	cin >> t;
+//	for (int i = 0; i < t; ++i)
+//	{
+//		cin >> str;
+//		if (str == "push")
+//		{
+//			cin >> n;
+//			stc.push(n);
+//		}
+//		else if (str == "top")
+//		{
+//			if (!stc.empty())
+//				cout << stc.top() << '\n';
+//			else
+//				cout << "-1" << '\n';
+//				
+//		}
+//		//else if (str == "back")
+//		//{
+//		//	if (!stc.empty())
+//		//		cout << stc.back() << '\n';
+//		//	else
+//		//		cout << "-1" << '\n';
+//		//}
+//		else if (str == "size")
+//			cout << stc.size() << '\n';
+//		else if (str == "empty")
+//			cout << stc.empty() << '\n';
+//		else if (str == "pop")
+//		{
+//			if (stc.empty())
+//				cout << "-1" << '\n';
+//			else
+//			{
+//				cout << stc.top() << '\n';
+//				stc.pop();
+//			}
+//		}
+//	}
+//}
+
+#include <stack>
+//
+//int main()
+//{
+//	int t, n, m;
+//	stack<int> stc;
+//	cin >> t;
+//	for (int i = 0; i < t; ++i)
+//	{
+//		cin >> n;
+//
+//		if (n == 1)
+//		{
+//			cin >> m;
+//			stc.push(m);
+//		}
+//		else if (n == 2)
+//		{
+//			if (!stc.empty())
+//			{
+//				if (!stc.empty())
+//				{
+//					cout << stc.top() << '\n';
+//					stc.pop();
+//				}
+//				else
+//					cout << "-1" << '\n';
+//			}
+//			else
+//				cout << "-1" << '\n';
+//		}
+//		else if (n == 3)
+//			cout << stc.size() << '\n';
+//		else if (n == 4)
+//			cout << stc.empty() << '\n';
+//		else if (n == 5)
+//		{
+//			if (!stc.empty())
+//				cout << stc.top() << '\n';
+//			else
+//				cout << "-1" << '\n';
+//		}
+//	}
+//}
+
+//int main()
+//{
+//	int t, n, sum = 0;
+//	stack<int> stc;
+//	cin >> t;
+//	for (int i = 0; i < t; ++i)
+//	{
+//		cin >> n;
+//
+//		if (n != 0)
+//			stc.push(n);
+//		else
+//		{
+//			if (!stc.empty())
+//				stc.pop();
+//		}
+//	}
+//	while (!stc.empty())
+//	{
+//		sum += stc.top();
+//		stc.pop();
+//	}
+//	cout << sum;
+//}
+
+//#include <stack>
+//
+//int main()
+//{
+//	int t;
+//	string str;
+//	cin >> t;
+//	for (int i = 0; i < t; ++i)
+//	{
+//	    stack<char> stc;
+//		bool correct = true;
+//		cin >> str;
+//        for (int j = 0; j < str.size(); ++j) {
+//
+//            if (str[j] == '(')
+//            {
+//                stc.push(str[j]);
+//            }
+//            else {
+//
+//                if (!stc.empty())
+//                    stc.pop();
+//                else
+//                {
+//                    correct = false;
+//                    break;
+//                }
+//            }
+//        }
+//        if (stc.empty() && correct)
+//            cout << "YES" << '\n';
+//        else
+//            cout << "NO" << '\n';
+//	}
+//}
+
+//#include <string>
+//int main()
+//{
+//	int n, m, k;
+//	int arr[10] = { };
+//	string sum;
+//	cin >> n >> m >> k;
+//	sum = to_string(n * m * k);
+//
+//	for (int i = 0; i < sum.length(); ++i)
+//	{
+//		switch (sum[i])
+//		{
+//		case '0':
+//			arr[0]++;
+//			break;
+//		case '1':
+//			arr[1]++;
+//			break;
+//		case '2':
+//			arr[2]++;
+//			break;
+//		case '3':
+//			arr[3]++;
+//			break;
+//		case '4':
+//			arr[4]++;
+//			break;
+//		case '5':
+//			arr[5]++;
+//			break;
+//		case '6':
+//			arr[6]++;
+//			break;
+//		case '7':
+//			arr[7]++;
+//			break;
+//		case '8':
+//			arr[8]++;
+//			break;
+//		case '9':
+//			arr[9]++;
+//			break;
+//		}
+//	}
+//	for (int temp : arr)
+//		cout << temp << '\n';
+//}
+
+//long long sum(std::vector<int>& a)
+//{
+//	long long sum = 0;
+//	for (int temp : a)
+//		sum += temp;
+//	return sum;
+//}
+
+//int main()
+//{
+//    int t;
+//    string str;
+//    cin >> t;
+//    cin >> str;
+//    cout << (int)str[0] + (int)str[2] << '\n';
 //}
