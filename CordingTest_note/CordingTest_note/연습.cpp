@@ -758,3 +758,212 @@ using namespace std;
 //    cin >> str;
 //    cout << (int)str[0] + (int)str[2] << '\n';
 //}
+
+//int main()
+//{
+//	int n, m;
+//	while (cin >> n >> m)
+//	{
+//		n += 1;
+//		cout << m / n << '\n';
+//	}
+//}
+//
+//int main()
+//{
+//	cout << "  ___  ___  ___" << '\n';
+//	cout << "  | |__| |__| |" << '\n';
+//	cout << "  |           |" << '\n';
+//	cout << "   \\_________/" << '\n';
+//	cout << "    \\_______/" << '\n';
+//	cout << "     |     |" << '\n';
+//	cout << "     |     |" << '\n';
+//	cout << "     |     |" << '\n';
+//	cout << "     |     |" << '\n';
+//	cout << "     |_____|" << '\n';
+//	cout << "  __/       \\__" << '\n';
+//	cout << " /             \\" << '\n';
+//	cout << "/_______________\\" << '\n';
+//}
+
+//int main()
+//{
+//	cout << "(___)" << '\n';
+//	cout << "(o o)____/" << '\n';
+//	cout << " @@      \\" << '\n';
+//	cout << "  \\ ____,/" << '\n';
+//	cout << "  //   //" << '\n';
+//	cout << " ^^   ^^" << '\n';
+//}
+
+//int main()
+//{
+//	int a, b;
+//	cin >> a >> b;
+//	cout << a + b << '\n';
+//	cout << a - b << '\n';
+//	cout << a * b << '\n';
+//}
+
+////#include <iostream>
+////using namespace std;
+////
+////long long arr [1000002], sorted[1000002];
+////
+////void merge(long long left, long long right) {
+////
+////	long long mid, p1, p2, sortDx;
+////
+////	if (left < right) {
+////
+////		mid = (left + right) / 2;
+////		merge(left, mid);
+////		merge(mid + 1, right);
+////
+////		p1 = left;
+////		p2 = mid + 1;
+////		sortDx = left;
+////
+////		while (p1 <= mid && p2 <= right) {
+////
+////			if (arr[p1] > arr[p2]) sorted[sortDx++] = arr[p2++];
+////			else sorted[sortDx++] = arr[p1++];
+////		}
+////
+////		while (p1 <= mid)
+////			sorted[sortDx++] = arr[p1++];
+////
+////		while (p2 <= right)
+////			sorted[sortDx] = arr[p2++];
+////
+////		for (long long i = left; i <= right; ++i)
+////			arr[i] = sorted[i];
+////	}
+////}
+////
+////int main() {
+////
+////	ios_base::sync_with_stdio(false);
+////	cin.tie(nullptr);
+////
+////	long long n;
+////
+////	cin >> n;
+////
+////	for (long long i = 1; i <= n; ++i)
+////		cin >> arr[i];
+////
+////	merge(1, n);
+////
+////	for (long long i = 1; i <= n; ++i)
+////		cout << arr[i] << '\n';
+////}
+
+//int main()
+//{
+//	long long n, current, sum;
+//	current = sum = 0;
+//	long long arr[1001], arr2[1001];
+//	cin >> n;
+//	for (long long i = 0; i < n; ++i)
+//		cin >> arr[i];
+//	for (long long i = 0; i < n; ++i)
+//	{
+//		cin >> arr2[i];
+//		if (current < arr[i] || current < arr2[i])
+//		{
+//			current = max(arr[i], arr2[i]);
+//			cout << current << endl;
+//			sum++;
+//		}
+//	}
+//	cout << sum;
+//}
+
+//#include	<string>
+//int main()
+//{
+//	string str;
+//	getline(cin, str);
+//	if (str.at(0) != '"' || str.at(str.length() - 1) != '"')
+//		cout << "CE";
+//	else
+//	{
+//		for (int i = 1; i < str.length() - 1; ++i)
+//			cout << str[i];
+//	}
+//} 
+
+//#include <queue>
+//int main()
+//{
+//	int n, m;
+//	queue<int> q;
+//	cin >> n >> m;
+//	for (int i = 1; i <= n; ++i)
+//		q.push(i);
+//	cout << "<";
+//	while (!q.empty())
+//	{
+//		for (int i = 0; i < m - 1; ++i)
+//		{
+//			int temp = q.front();
+//			q.pop();
+//			q.push(temp);
+//		}
+//		if (q.size() == 1)
+//			cout << q.front();
+//		else
+//			cout << q.front() << ", ";
+//		q.pop();
+//	}
+//	cout << ">";
+//}
+
+//int main()
+//{
+//	int t, h, w, n;
+//	int a, b;
+//	cin >> t;
+//	for (int i = 0; i < t; ++i)
+//	{
+//		cin >> h >> w >> n;
+//
+//		if (n % h == 0)
+//			cout << n / h;
+//		else
+//			cout << n % h;
+//		//if (n / h != 1)
+//		//{
+//		//	if ((n / h) + 1 < 10)
+//		//		cout << "&0";
+//		//}
+//		if ((n / h) + 1 < 10)
+//			cout << "*0";
+//		cout << (n / h) + 1 << '\n';
+//	}
+//}
+
+//int main()
+//{
+//	int arr[8];
+//	string str;
+//
+//	for (int i = 0; i < 8; ++i)
+//		cin >> arr[i];
+//
+//	for (int i = 0; i < 8; ++i)
+//	{
+//		if (arr[i] == i + 1 && str != "descending")
+//			str = "ascending";
+//		else if (arr[i] == 8 - i && str != "ascending")
+//			str = "descending";
+//		else
+//		{
+//			str = "mixed";
+//			break;
+//		}
+//	}
+//
+//	cout << str;
+//}
