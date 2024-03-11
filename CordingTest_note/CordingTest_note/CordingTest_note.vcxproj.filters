@@ -32,13 +32,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Bronze.cpp">
+    <ClCompile Include="11718-그대로 출력하기.cpp">
       <Filter>백준</Filter>
     </ClCompile>
-    <ClCompile Include="A+B - 5.cpp">
+    <ClCompile Include="10952-A+B - 5.cpp">
       <Filter>백준</Filter>
     </ClCompile>
-    <ClCompile Include="Bronze2.cpp">
+    <ClCompile Include="2161-카드1.cpp">
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="주몽.cpp">
@@ -140,7 +140,7 @@
     <ClCompile Include="오픈채팅방.cpp">
       <Filter>코테</Filter>
     </ClCompile>
-    <ClCompile Include="A + B.cpp">
+    <ClCompile Include="26711-A+B.cpp">
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="쇠막대기.cpp">
@@ -203,7 +203,7 @@
     <ClCompile Include="생일.cpp">
       <Filter>백준</Filter>
     </ClCompile>
-    <ClCompile Include="0의 개수.cpp">
+    <ClCompile Include="11170-0의 개수.cpp">
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="동전 0.cpp">
@@ -344,7 +344,7 @@
     <ClCompile Include="타일 채우기(2).cpp">
       <Filter>수업</Filter>
     </ClCompile>
-    <ClCompile Include="1로 만들기.cpp">
+    <ClCompile Include="1463-1로 만들기.cpp">
       <Filter>백준</Filter>
     </ClCompile>
     <ClCompile Include="동전 1.cpp">
@@ -364,6 +364,9 @@
     </ClCompile>
     <ClCompile Include="연습.cpp">
       <Filter>코드트리</Filter>
+    </ClCompile>
+    <ClCompile Include="9654-나부 함대 데이터.cpp">
+      <Filter>백준</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
