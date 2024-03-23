@@ -368,6 +368,24 @@
     <ClCompile Include="9654-나부 함대 데이터.cpp">
       <Filter>백준</Filter>
     </ClCompile>
+    <ClCompile Include="1157-단어 공부.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="8370-Plane.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="4101-크냐.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="6840-Who is in the middle.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="10189-Hook.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="9653-스타워즈 로고.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TR_h.h">
