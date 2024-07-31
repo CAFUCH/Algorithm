@@ -1,2 +1,3 @@
-﻿  1463-1로 만들기.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(CordingTest_notes.vcxproj, CordingTest_note_feofdfs.vcxproj, CordingTest_note_feofj.vcxproj, CordingTest_note_feofjawe.vcxproj, CordingTest_note_s.vcxproj, CordingTest_note_t.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  30454-얼룩말을 찾아라!.cpp
   CordingTest_note.vcxproj -> D:\GitHub\Algorithm\CordingTest_note\x64\Debug\CordingTest_note.exe
