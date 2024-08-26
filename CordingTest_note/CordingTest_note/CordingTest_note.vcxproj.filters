@@ -515,6 +515,18 @@
     <ClCompile Include="30454-얼룩말을 찾아라!.cpp">
       <Filter>백준</Filter>
     </ClCompile>
+    <ClCompile Include="29722-브실혜성.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="30501-관공어찌하여 목만 오셨소.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="29738-GoodbyeCodeJam.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
+    <ClCompile Include="28281-선물.cpp">
+      <Filter>백준</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TR_h.h">

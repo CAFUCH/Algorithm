@@ -3,40 +3,64 @@
   "WorkspaceRootPath": "D:\\GitHub\\Algorithm\\CordingTest_note\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\28281-\uC120\uBB3C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\28281-\uC120\uBB3C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\29738-GoodbyeCodeJam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\29738-GoodbyeCodeJam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30501-\uAD00\uACF5\uC5B4\uCC0C\uD558\uC5EC \uBAA9\uB9CC \uC624\uC168\uC18C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\30501-\uAD00\uACF5\uC5B4\uCC0C\uD558\uC5EC \uBAA9\uB9CC \uC624\uC168\uC18C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30017-\uCE58\uC988\uBC84\uAC70 \uB9CC\uB4E4\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\30017-\uCE58\uC988\uBC84\uAC70 \uB9CC\uB4E4\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31831-\uACFC\uBBFC\uC131 \uB300\uC7A5 \uC99D\uD6C4\uADFC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\31831-\uACFC\uBBFC\uC131 \uB300\uC7A5 \uC99D\uD6C4\uADFC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31403-A \u002B B - C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\31403-A \u002B B - C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\29722-\uBE0C\uC2E4\uD61C\uC131.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\29722-\uBE0C\uC2E4\uD61C\uC131.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31868-\uC218\uBC15 \uAC8C\uC784.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\31868-\uC218\uBC15 \uAC8C\uC784.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\20113-\uAE34\uAE09 \uD68C\uC758.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\20113-\uAE34\uAE09 \uD68C\uC758.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\25372-\uC131\uD0DD\uC774\uC758 \uC740\uBC00\uD55C \uBE44\uBC00\uBC88\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\25372-\uC131\uD0DD\uC774\uC758 \uC740\uBC00\uD55C \uBE44\uBC00\uBC88\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\21736-\uD5CC\uB0B4\uAE30\uB294 \uCE5C\uAD6C\uAC00 \uD544\uC694\uD574.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\21736-\uD5CC\uB0B4\uAE30\uB294 \uCE5C\uAD6C\uAC00 \uD544\uC694\uD574.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\16673-\uACE0\uB824\uB300\uD559\uAD50\uC5D0\uB294 \uACF5\uC2DD \uC640\uC778\uC774 \uC788\uB2E4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\16673-\uACE0\uB824\uB300\uD559\uAD50\uC5D0\uB294 \uACF5\uC2DD \uC640\uC778\uC774 \uC788\uB2E4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\20113-\uAE34\uAE09 \uD68C\uC758.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\20113-\uAE34\uAE09 \uD68C\uC758.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\24511 - queuestack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\24511 - queuestack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\25372-\uC131\uD0DD\uC774\uC758 \uC740\uBC00\uD55C \uBE44\uBC00\uBC88\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\25372-\uC131\uD0DD\uC774\uC758 \uC740\uBC00\uD55C \uBE44\uBC00\uBC88\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31403-A \u002B B - C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\31403-A \u002B B - C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31614-\u5206.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\31614-\u5206.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31831-\uACFC\uBBFC\uC131 \uB300\uC7A5 \uC99D\uD6C4\uADFC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\31831-\uACFC\uBBFC\uC131 \uB300\uC7A5 \uC99D\uD6C4\uADFC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31868-\uC218\uBC15 \uAC8C\uC784.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\31868-\uC218\uBC15 \uAC8C\uC784.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\2506-\uC810\uC218 \uACC4\uC0B0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -49,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\4470-\uC904\uBC88\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\4470-\uC904\uBC88\uD638.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\24511 - queuestack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\24511 - queuestack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\11478 - \uC11C\uB85C \uB2E4\uB978 \uBD80\uBD84 \uBB38\uC790\uC5F4\uC758 \uAC1C\uC218.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -93,6 +113,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\DFS\uC640 BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6B30899-1264-44F7-90DA-473136846851}|CordingTest_note\\CordingTest_note.vcxproj|solutionrelative:CordingTest_note\\DFS\uC640 BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\string||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -101,8 +124,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 935,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -133,21 +156,96 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp",
-              "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp",
-              "RelativeDocumentMoniker": "CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp",
-              "ToolTip": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp",
-              "RelativeToolTip": "CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBUAAAAbAAAA",
+              "Title": "28281-\uC120\uBB3C.cpp",
+              "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\28281-\uC120\uBB3C.cpp",
+              "RelativeDocumentMoniker": "CordingTest_note\\28281-\uC120\uBB3C.cpp",
+              "ToolTip": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\28281-\uC120\uBB3C.cpp",
+              "RelativeToolTip": "CordingTest_note\\28281-\uC120\uBB3C.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-17T09:07:43.119Z",
+              "WhenOpened": "2024-08-22T11:23:24.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "29738-GoodbyeCodeJam.cpp",
+              "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\29738-GoodbyeCodeJam.cpp",
+              "RelativeDocumentMoniker": "CordingTest_note\\29738-GoodbyeCodeJam.cpp",
+              "ToolTip": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\29738-GoodbyeCodeJam.cpp",
+              "RelativeToolTip": "CordingTest_note\\29738-GoodbyeCodeJam.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-19T13:43:37.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "30501-\uAD00\uACF5\uC5B4\uCC0C\uD558\uC5EC \uBAA9\uB9CC \uC624\uC168\uC18C.cpp",
+              "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30501-\uAD00\uACF5\uC5B4\uCC0C\uD558\uC5EC \uBAA9\uB9CC \uC624\uC168\uC18C.cpp",
+              "RelativeDocumentMoniker": "CordingTest_note\\30501-\uAD00\uACF5\uC5B4\uCC0C\uD558\uC5EC \uBAA9\uB9CC \uC624\uC168\uC18C.cpp",
+              "ToolTip": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30501-\uAD00\uACF5\uC5B4\uCC0C\uD558\uC5EC \uBAA9\uB9CC \uC624\uC168\uC18C.cpp",
+              "RelativeToolTip": "CordingTest_note\\30501-\uAD00\uACF5\uC5B4\uCC0C\uD558\uC5EC \uBAA9\uB9CC \uC624\uC168\uC18C.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T13:55:50.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "string",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\string",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\string",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAjwGMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-07T13:37:34.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "21736-\uD5CC\uB0B4\uAE30\uB294 \uCE5C\uAD6C\uAC00 \uD544\uC694\uD574.cpp",
+              "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\21736-\uD5CC\uB0B4\uAE30\uB294 \uCE5C\uAD6C\uAC00 \uD544\uC694\uD574.cpp",
+              "RelativeDocumentMoniker": "CordingTest_note\\21736-\uD5CC\uB0B4\uAE30\uB294 \uCE5C\uAD6C\uAC00 \uD544\uC694\uD574.cpp",
+              "ToolTip": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\21736-\uD5CC\uB0B4\uAE30\uB294 \uCE5C\uAD6C\uAC00 \uD544\uC694\uD574.cpp",
+              "RelativeToolTip": "CordingTest_note\\21736-\uD5CC\uB0B4\uAE30\uB294 \uCE5C\uAD6C\uAC00 \uD544\uC694\uD574.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T13:35:41.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "29722-\uBE0C\uC2E4\uD61C\uC131.cpp",
+              "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\29722-\uBE0C\uC2E4\uD61C\uC131.cpp",
+              "RelativeDocumentMoniker": "CordingTest_note\\29722-\uBE0C\uC2E4\uD61C\uC131.cpp",
+              "ToolTip": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\29722-\uBE0C\uC2E4\uD61C\uC131.cpp",
+              "RelativeToolTip": "CordingTest_note\\29722-\uBE0C\uC2E4\uD61C\uC131.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T13:33:28.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp",
+              "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp",
+              "RelativeDocumentMoniker": "CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp",
+              "ToolTip": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp",
+              "RelativeToolTip": "CordingTest_note\\30454-\uC5BC\uB8E9\uB9D0\uC744 \uCC3E\uC544\uB77C!.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T09:07:43.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "30017-\uCE58\uC988\uBC84\uAC70 \uB9CC\uB4E4\uAE30.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\30017-\uCE58\uC988\uBC84\uAC70 \uB9CC\uB4E4\uAE30.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\30017-\uCE58\uC988\uBC84\uAC70 \uB9CC\uB4E4\uAE30.cpp",
@@ -155,12 +253,11 @@
               "RelativeToolTip": "CordingTest_note\\30017-\uCE58\uC988\uBC84\uAC70 \uB9CC\uB4E4\uAE30.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-11T14:08:21.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T14:08:21.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "31831-\uACFC\uBBFC\uC131 \uB300\uC7A5 \uC99D\uD6C4\uADFC.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31831-\uACFC\uBBFC\uC131 \uB300\uC7A5 \uC99D\uD6C4\uADFC.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\31831-\uACFC\uBBFC\uC131 \uB300\uC7A5 \uC99D\uD6C4\uADFC.cpp",
@@ -172,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "31403-A \u002B B - C.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31403-A \u002B B - C.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\31403-A \u002B B - C.cpp",
@@ -184,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "31868-\uC218\uBC15 \uAC8C\uC784.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31868-\uC218\uBC15 \uAC8C\uC784.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\31868-\uC218\uBC15 \uAC8C\uC784.cpp",
@@ -196,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "20113-\uAE34\uAE09 \uD68C\uC758.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\20113-\uAE34\uAE09 \uD68C\uC758.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\20113-\uAE34\uAE09 \uD68C\uC758.cpp",
@@ -208,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "25372-\uC131\uD0DD\uC774\uC758 \uC740\uBC00\uD55C \uBE44\uBC00\uBC88\uD638.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\25372-\uC131\uD0DD\uC774\uC758 \uC740\uBC00\uD55C \uBE44\uBC00\uBC88\uD638.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\25372-\uC131\uD0DD\uC774\uC758 \uC740\uBC00\uD55C \uBE44\uBC00\uBC88\uD638.cpp",
@@ -232,19 +329,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "31614-\u5206.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31614-\u5206.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\31614-\u5206.cpp",
               "ToolTip": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31614-\u5206.cpp",
               "RelativeToolTip": "CordingTest_note\\31614-\u5206.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-19T14:09:46.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "2506-\uC810\uC218 \uACC4\uC0B0.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\2506-\uC810\uC218 \uACC4\uC0B0.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\2506-\uC810\uC218 \uACC4\uC0B0.cpp",
@@ -256,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "4562-No Brainer.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\4562-No Brainer.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\4562-No Brainer.cpp",
@@ -268,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "4470-\uC904\uBC88\uD638.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\4470-\uC904\uBC88\uD638.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\4470-\uC904\uBC88\uD638.cpp",
@@ -280,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "24511 - queuestack.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\24511 - queuestack.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\24511 - queuestack.cpp",
@@ -292,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "11478 - \uC11C\uB85C \uB2E4\uB978 \uBD80\uBD84 \uBB38\uC790\uC5F4\uC758 \uAC1C\uC218.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\11478 - \uC11C\uB85C \uB2E4\uB978 \uBD80\uBD84 \uBB38\uC790\uC5F4\uC758 \uAC1C\uC218.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\11478 - \uC11C\uB85C \uB2E4\uB978 \uBD80\uBD84 \uBB38\uC790\uC5F4\uC758 \uAC1C\uC218.cpp",
@@ -304,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "3765-Celebrity jeopardy.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\3765-Celebrity jeopardy.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\3765-Celebrity jeopardy.cpp",
@@ -316,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "31923 \uB9C8\uB77C\uD0D5\uD6C4\uB8E8.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\31923 \uB9C8\uB77C\uD0D5\uD6C4\uB8E8.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\31923 \uB9C8\uB77C\uD0D5\uD6C4\uB8E8.cpp",
@@ -328,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "1673-\uCE58\uD0A8 \uCFE0\uD3F0.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\1673-\uCE58\uD0A8 \uCFE0\uD3F0.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\1673-\uCE58\uD0A8 \uCFE0\uD3F0.cpp",
@@ -340,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "1697-\uC228\uBC14\uAF2D\uC9C8.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\1697-\uC228\uBC14\uAF2D\uC9C8.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\1697-\uC228\uBC14\uAF2D\uC9C8.cpp",
@@ -352,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "29546-\u0424\u0430\u0439\u043B\u044B.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\29546-\u0424\u0430\u0439\u043B\u044B.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\29546-\u0424\u0430\u0439\u043B\u044B.cpp",
@@ -364,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "2512-\uC608\uC0B0.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\2512-\uC608\uC0B0.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\2512-\uC608\uC0B0.cpp",
@@ -376,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "26545-Mathematics.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\26545-Mathematics.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\26545-Mathematics.cpp",
@@ -388,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "DFS\uC640 BFS.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\DFS\uC640 BFS.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\DFS\uC640 BFS.cpp",
@@ -400,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "2667-\uB2E8\uC9C0\uBC88\uD638\uBD99\uC774\uAE30.cpp",
               "DocumentMoniker": "D:\\GitHub\\Algorithm\\CordingTest_note\\CordingTest_note\\2667-\uB2E8\uC9C0\uBC88\uD638\uBD99\uC774\uAE30.cpp",
               "RelativeDocumentMoniker": "CordingTest_note\\2667-\uB2E8\uC9C0\uBC88\uD638\uBD99\uC774\uAE30.cpp",
@@ -413,7 +510,7 @@
           ]
         },
         {
-          "DockedWidth": 183,
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {
